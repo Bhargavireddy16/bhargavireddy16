@@ -81,22 +81,36 @@ class Bhargavi:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 10px;">
       <h3 align="center">🏗️ What I Build</h3>
       <br>
       <ul>
         <li><b>🤖 AI-Powered Apps</b><br>Full-stack applications integrating intelligent workflows.</li>
+        <br>
         <li><b>🚀 Scalable APIs</b><br>High-performance backend systems.</li>
+        <br>
         <li><b>☁️ Cloud Systems</b><br>Production-ready cloud architectures.</li>
+        <br>
         <li><b>⚡ Automation</b><br>Intelligent automation platforms.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 10px; border-left: 1px solid #ccc;">
       <h3 align="center">📌 Featured Projects</h3>
       <br>
+      <div align="center">
+        <a href="https://github.com/Bhargavireddy16/architex-ai">
+          <img src="https://raw.githubusercontent.com/Bhargavireddy16/architex-ai/main/public/cad_generator.png" width="400" style="border-radius:10px; margin-bottom: 20px;" />
+        </a>
+        <br>
+        <b><a href="https://github.com/Bhargavireddy16/architex-ai">🌟 Architex AI</a></b>
+        <p>Production-grade architectural platform fusing Next.js engineering with Azure AI for generative drafting.</p>
+      </div>
+      <br>
+      <hr style="opacity: 0.5;">
+      <br>
       <ul>
-        <li><b><a href="https://github.com/Bhargavireddy16/architex-ai">🧠 Architex AI</a></b><br>Production-grade architectural platform fusing Next.js engineering with Azure AI for generative drafting.</li>
         <li><b><a href="https://github.com/Bhargavireddy16/construct-ai">🏗️ Construct AI</a></b><br>High-performance 3D scene synthesis engine using Electron, Three.js, and Neural Language Processing.</li>
+        <br>
         <li><b><a href="https://github.com/Bhargavireddy16/portfolio">📊 Interactive Portfolio</a></b><br>Full-featured LinkedIn clone showcasing React, TypeScript, and advanced UI engineering.</li>
       </ul>
     </td>
